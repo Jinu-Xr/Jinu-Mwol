@@ -21,8 +21,21 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dont
 	
         await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
         let msg = '```'
-        msg +=  `TITLE :${result.title}\n\n`        
+
+        msg +=  `TITLE :${result.title}\n\n`
+
+        msg +=  `THUMBNAIL :${result.thumb}\n\n`
+
+        msg +=  `CHANNEL :${result.channel}\n\n`
+
+        msg +=  `DATE OF PUBLISHED :${result.published}\n\n`
+
+        msg +=  `TOTAL VIEWS :${result.views}\n\n`
+
+        msg +=  `DOWNLOADING LINK :${result.url}\n\n`
+
         msg += '```'
-        return await message.client.sendMessage(message.jid,Buffer.from(img.data), MessageType.image, {mimetype: Mimetype.jpg , caption: msg })
-        return await message.client.sendMessage(message.jid,Buffer.from(audioBuffer.data), MessageType.document, {filename: msg , mimetype: Mimetype.webma,  quoted : message.data }) 
+
+         return await message.client.sendMessage(message.jid,Buffer.from(img.data), MessageType.image, {mimetype: Mimetype.jpg , caption: msg })
+
         });
