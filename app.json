@@ -231,6 +231,11 @@
             "required": false,
             "value": "default"
         },
+        "VERIFICATION_CAPTION": {
+            "description": "Set Verification Tik Caption",
+            "required": false
+            "value": "❀Jinu Mwol𖣘\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+        },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
             "required": false,
@@ -240,11 +245,6 @@
             "description": "Customizable AFK Message! Use => default, to change back.",
             "required": false,
             "value": "default"
-        },
-        "VERIFY_TYPE": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
