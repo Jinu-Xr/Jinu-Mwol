@@ -20,6 +20,16 @@
             "description": " If you want to add  owner number to your git contact, enter the number here, and be careful not to use + and space when entering the number. Example: 91xxxxxxxxx",
             "required": false
         },
+        "GROUP_LINK": {
+            "description": "Enter Your Group Link",
+            "required": false,
+            "value": "https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk"
+        },
+        "INSTA_LINK": {
+            "description": "Enter Your Group Link",
+            "required": true,
+            "value": "https://instagram.com/"
+        },
         "LANGUAGE": {
             "description": "Jinu bot language. Malayalam => ml, English => en",
             "required": true,
