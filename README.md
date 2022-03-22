@@ -6,7 +6,7 @@
 ## JINU BOT SETUP
 
 <br>
-   <a href="https://replit.com/@Afx-Abu/Jinu-Mwol-1?v=1"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
+   <a href="https://replit.com/@Afx-Abu/Jinu-Mwol-Qr?v=1"><img src="https://img.shields.io/badge/-SCAN%20THE%20REPLIT-black?style=for-the-badge&logo=replit&logoColor=white">
    <br>
    
 <br>
