@@ -1,7 +1,7 @@
 {
     "name": "Jinu-Mwol",
     "description": "Jinu is the Modified Version of WhatsAsena, Made By @Jinu-Xr.",
-    "logo": "https://i.imgur.com/sJCpf2j.jpeg",
+    "logo": "https://i.imgur.com/wKFKh2l.jpg",
     "keywords": ["whatsapp", "userbot", "Jinu", "WhatsAsena", "Abu", "bot", "ai"],
     "repository": "https://github.com/Jinu-Xr/Jinu-Mwol",
     "website":   "https://github.com/Jinu-Xr/Jinu-Mwol",
@@ -189,7 +189,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/sJCpf2j.jpeg"
+            "value": "https://i.imgur.com/wKFKh2l.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
