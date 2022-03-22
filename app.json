@@ -65,11 +65,6 @@
             "required": true,
             "value": "false"
         },
-        "VERIFICATION_CAPTION": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
-        },
         "AUTO_BİO": {
             "description": " Set true for auto date, time in biography.",
             "required": true,
@@ -148,11 +143,6 @@
             "required": false,
             "value": "default"
         },
-        "VERIFICATION_CAPTION": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
-        },
         "BLOCK_MESSAGE": {
             "description": "Customizable Block Message! Use => default, to change back.",
             "required": false,
@@ -162,6 +152,11 @@
             "description": "Customizable Unblock Message! Use => default, to change back.",
             "required": false,
             "value": "default"
+        },
+        "VERIFIED_TICK": {
+            "description": "Set Verification Tik Caption",
+            "required": false
+            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
         },
         "BOT_NAME": {
             "description": "heading for .list command reply",
