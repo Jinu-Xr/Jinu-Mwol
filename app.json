@@ -231,11 +231,6 @@
             "required": false,
             "value": "default"
         },
-        "VERIFICATION_CAPTION": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
-        },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
             "required": false,
