@@ -73,6 +73,8 @@ module.exports = {
     VERIFY: process.env.VERIFICATION_CAPTION === undefined ? '[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ' : process.env.VERIFICATION_CAPTION,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     PHONE: process.env.NUMBER === undefined ? false : process.env.NUMBER,
+    INSTA: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
+    GROUP: process.env.LINK === undefined ? 'https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk' : process.env.LINK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
