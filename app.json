@@ -234,7 +234,7 @@
         "VERIFICATION_CAPTION": {
             "description": "Set Verification Tik Caption",
             "required": false
-            "value": "❀Jinu Mwol𖣘\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+            "value": "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
         },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
