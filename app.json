@@ -65,6 +65,11 @@
             "required": true,
             "value": "false"
         },
+        "VERIFICATION_CAPTION": {
+            "description": "Set Verification Tik Caption",
+            "required": false
+            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+        },
         "AUTO_BİO": {
             "description": " Set true for auto date, time in biography.",
             "required": true,
