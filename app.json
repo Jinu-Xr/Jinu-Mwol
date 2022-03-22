@@ -116,7 +116,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "ʜᴀʟᴏ ɢᴜʏs"
+            "value": "ʜɪ ɢᴀʏᴢ"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -141,7 +141,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": " ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐  \n\n   *ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ™*   \n"
+            "value": " ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
         },
         "WORK_TYPE": {
             "description": "Jinu Working Type. If you use “public”, everyone can use the bot. Jinu if you use “private”, only you can use your bot.",
@@ -164,7 +164,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│𖣘 ʜᴇʏ ᴜѕᴇʀ ___________ ❀ \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : ᴊɪɴᴜ ᴍᴡᴏʟ \n│❀ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ \n│♡︎ ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│♡︎ ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│♡︎ ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│♡︎ ᴀɪ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│💙──────❤️──────💜\n╰───────────────────"
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│𖣘 ʜᴇʏ ᴜѕᴇʀ ___________ ❀ \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : ᴊɪɴᴜ ᴍᴡᴏʟ \n│❀ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ \n│♡︎ ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│♡︎ ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│♡︎ ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│♡︎ ᴀɪ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
@@ -179,22 +179,12 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://telegra.ph/file/e6991117d2fc06b26b507.jpg"
+            "value": "https://i.imgur.com/sJCpf2j.jpeg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
             "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐"
-        },
-        "VERIFICATION_CAPTION": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
-        },
-        "THUMBNAIL_URL": {
-            "description": "Paste the image url here to set your photo logo as thumbnail",
-            "required": false,
-            "value": "https://i.imgur.com/wKFKh2l.jpg"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -204,12 +194,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "✮⃝🎸ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ sᴏɴɢ...𖣘 "
+            "value": "♡︎..ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ sᴏɴɢ...𖣘 "
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "✮⃝🎸ᴜᴘʟᴏᴀᴅɪɴɢ sᴏɴɢ ...ᴜsᴇ ..ʜᴇᴅsᴇᴛ..♫︎"
+            "value": "♡︎..ᴜᴘʟᴏᴀᴅɪɴɢ sᴏɴɢ ...ᴜsᴇ ..ʜᴇᴅsᴇᴛ..♫︎"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
