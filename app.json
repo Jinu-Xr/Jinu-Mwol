@@ -200,11 +200,6 @@
             "description": "enter your name here",
             "required": false
         },
-        "THUMBNAIL_URL": {
-            "description": "Paste the image url here to set your photo logo as thumbnail",
-            "required": false,
-            "value": "https://i.imgur.com/wKFKh2l.jpg"
-        },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
