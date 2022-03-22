@@ -24,6 +24,7 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
 
     PM_BLOCK: process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK,
+    THUMBNAIL: process.env.THUMBNAIL_URL === undefined ? 'https://i.imgur.com/wKFKh2l.jpg' : process.env.THUMBNAIL_URL,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
@@ -69,7 +70,6 @@ module.exports = {
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/wKFKh2l.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐' : process.env.LOGO_NAME,
     OA_NAME: process.env.DEPLOYER === undefined ? 'undefined' : process.env.DEPLOYER,    
-    THUMBNAIL: process.env.THUMBNAIL_URL === undefined ? 'https://i.imgur.com/wKFKh2l.jpg' : process.env.THUMBNAIL_URL,
     VERIFY: process.env.VERIFICATION_CAPTION === undefined ? '[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ' : process.env.VERIFICATION_CAPTION,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     PHONE: process.env.NUMBER === undefined ? false : process.env.NUMBER,
