@@ -62,7 +62,6 @@ module.exports = {
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     YAK: process.env.YAK === undefined ? '917025994178,0' : process.env.YAK,
-    OWNERSHIP: process.env.OWNER_SHIP === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐' : process.env.OWNER_SHIP,
     JINU: process.env.LOGO_LINK === undefined ? 'https://i.imgur.com/wKFKh2l.jpg' : process.env.LOGO_LINK,
     BOTV2: process.env.BOTV2_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐' : process.env.BOTV2_NAME,
     JINU_AI: process.env.JINU_AI === undefined ? 'false' : process.env.JINU_AI,
