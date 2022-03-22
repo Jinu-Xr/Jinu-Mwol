@@ -40,6 +40,11 @@
             "required": false,
             "value": "true"
         },
+        "VERIFIED_TICK": {
+            "description": "Set Verification Tik Caption",
+            "required": false,
+            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+        },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
