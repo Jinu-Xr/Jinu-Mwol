@@ -67,7 +67,7 @@ module.exports = {
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ᴊɪɴᴜ ᴍᴡᴏʟ' : process.env.ALIVE_BUTTON,
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/wKFKh2l.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐' : process.env.LOGO_NAME,
-    VERIFIED_TICK: process.env.VERIFIED_TICK === undefined ? '[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ' : process.env.VERIFIED_TICK,
+    VERIFIED_TICK: process.env.VERIFIED_TICK === undefined ? '[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ ' : process.env.VERIFIED_TICK,
     OA_NAME: process.env.DEPLOYER === undefined ? 'undefined' : process.env.DEPLOYER,    
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     PHONE: process.env.NUMBER === undefined ? false : process.env.NUMBER,
