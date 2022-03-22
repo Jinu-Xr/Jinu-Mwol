@@ -158,6 +158,11 @@
             "required": false,
             "value": " ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
         },
+        "VERIFICATION_CAPTION": {
+            "description": "Set Verification Tik Caption",
+            "required": false
+            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
+        },
         "WORK_TYPE": {
             "description": "Jinu Working Type. If you use “public”, everyone can use the bot. Jinu if you use “private”, only you can use your bot.",
             "required": true,
