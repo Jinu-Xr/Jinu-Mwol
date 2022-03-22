@@ -149,11 +149,6 @@
             "required": false,
             "value": "default"
         },
-        "VERIFIED_TICK": {
-            "description": "Set Verification Tik Caption",
-            "required": false
-            "value": "[Jinu Mwol]\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴛᴢ ᴍᴇ ᴊɪɴᴜ"
-        },
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
