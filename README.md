@@ -10,7 +10,7 @@
    <br>
    
 <br>
-   <a href="https://abu-ser.yolasite.com"><img src="https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-634988?style=for-the-badge&logo=heroku&logoColor=white">
+   <a href="https://heroku.com/deploy?template=https://github.com/Jinu-Xr/Jinu-Mwol"><img src="https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-634988?style=for-the-badge&logo=heroku&logoColor=white">
    <br>
 
 
