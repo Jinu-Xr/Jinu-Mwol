@@ -79,6 +79,11 @@
             "value": "false"
 
         },
+        "THUMBNAIL_URL": {
+            "description": "Paste the image url here to set your photo logo as thumbnail",
+            "required": false,
+            "value": "https://i.imgur.com/wKFKh2l.jpg"
+        },
         "HANDLERS": {
             "description": "For commands.",
             "required": true,
