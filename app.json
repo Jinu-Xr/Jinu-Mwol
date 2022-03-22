@@ -196,6 +196,10 @@
             "required": true,
             "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴊɪɴᴜ ᴍᴏʟ࿐"
         },
+        "DEPLOYER": {
+            "description": "enter your name here",
+            "required": false
+        },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
