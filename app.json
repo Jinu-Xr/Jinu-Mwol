@@ -71,13 +71,9 @@
             "value": "false"
         },
         "PM_BLOCK": {
-
-            "description": "Link Blocking System.",
-
-            "required": true,
-
-            "value": "false"
-
+             "description": "Link Blocking System.",
+             "required": true,
+             "value": "false"
         },
         "THUMBNAIL_URL": {
             "description": "Paste the image url here to set your photo logo as thumbnail",
